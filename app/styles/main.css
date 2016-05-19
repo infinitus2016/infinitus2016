@@ -18,5 +18,6 @@ body {
 }
 
 paper-toolbar#mainToolbar {
-  background-image: url("/images/elements/bestfriend-runners-q75d.jpg");
+  /*background-image: url("/infinitus2016/images/elements/banner.jpg");*/
+  background-image: url("../images/elements/banner.jpg");
 }
